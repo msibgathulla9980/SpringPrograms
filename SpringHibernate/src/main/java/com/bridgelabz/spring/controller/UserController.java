@@ -13,7 +13,7 @@ import com.bridgelabz.spring.model.UserDetails;
 import com.bridgelabz.spring.service.UserService;
 
 @RestController
-public class USerController {
+public class UserController {
 	
 	@Autowired
 	private UserService userService;
